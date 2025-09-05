@@ -1,4 +1,4 @@
-public class Se {
+public class Seatwork6 {
         public static void main(String[] args) {
                 System.out.println("Seatworksix");
 
